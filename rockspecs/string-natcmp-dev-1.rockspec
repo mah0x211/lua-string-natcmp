@@ -4,7 +4,7 @@ source = {
     url = "git+https://github.com/mah0x211/lua-string-natcmp.git",
 }
 description = {
-    summary = "",
+    summary = "Natural order string comparison function for Lua with full UTF-8 support.",
     homepage = "https://github.com/mah0x211/lua-string-natcmp",
     license = "MIT/X11",
     maintainer = "Masatoshi Fukunaga",
